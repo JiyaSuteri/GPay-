@@ -1,0 +1,1 @@
+cout<<"Animal is born"<<endl;
